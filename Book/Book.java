@@ -1,5 +1,9 @@
 package Book;
 
+/*
+ * @author hitsuji2001
+ */
+
 public class Book implements Comparable <Book>
 {
     private int id;

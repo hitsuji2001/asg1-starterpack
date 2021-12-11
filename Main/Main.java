@@ -1,6 +1,9 @@
+/*
+ * @author hitsuji2001
+ */
+
 package Main;
 
-import Book.BookManager;
 import Menu.Menu;
 
 public class Main

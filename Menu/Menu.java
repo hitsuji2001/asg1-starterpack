@@ -1,3 +1,7 @@
+/*
+ * @author hitsuji2001
+ */
+
 package Menu;
 
 import java.util.Scanner;
